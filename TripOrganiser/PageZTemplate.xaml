@@ -1,4 +1,4 @@
-﻿<Page x:Class="TripOrganiser.PageLeg"
+﻿<Page x:Class="TripOrganiser.PageZTemplate"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:TripOrganiser"
       mc:Ignorable="d" 
       d:DesignHeight="768" d:DesignWidth="1024"
-      Title="PageLeg">
+      Title="PageZTemplate">
 
     <Grid>
         
